@@ -14,7 +14,8 @@
 ## MT
 How to setup&run Marian, NMT<br/>
 How to setup&run Mosess, SMT<br/>
-[How to setup&run Bitexter/Paracrawl](https://github.com/bitextor/bitextor/releases/tag/v6.0.0-rc.1)<br/>
+[How to setup&run Bitexter](https://github.com/bitextor/bitextor/releases/tag/v6.0.0-rc.1)<br/>
+[How to setup&run paracrawl/DataCollection](https://github.com/paracrawl/DataCollection/blob/master/INSTALL.md)
 
 ## Chatbot Platform
 [Build A Chatbot with Rasa NLU](https://blog.spg.ai/build-a-chatbot-with-rasa-nlu-dc2bfb55edb2)
