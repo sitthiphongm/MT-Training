@@ -1,13 +1,13 @@
 # NLP-Books&Training 
 
 ## Reading
-How to setup and train model.
+[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## In Queue
 [Good practices in Modern Tensorflow for NLP](http://nbviewer.jupyter.org/github/roamanalytics/roamresearch/blob/master/BlogPosts/Modern_TensorFlow/modern-tensorflow.ipynb)<br/>
 [Python Machine Learning, 2nd Ed.](https://github.com/rasbt/python-machine-learning-book-2nd-edition)<br/>
 
-## Recommened
+## Recommended
 [2110594 NLP Course @Chula : Video](https://www.youtube.com/watch?v=yTYo6XJjMzY&list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96)<br/>
 [2110594 NLP Course @Chula : Git](https://github.com/ekapolc/nlp_course)<br/>
 
