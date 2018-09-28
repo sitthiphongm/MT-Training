@@ -1,7 +1,7 @@
 # NLP-Books&Training 
 
 ## Reading
-[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)<br/>
 
 ## In Queue
 [Good practices in Modern Tensorflow for NLP](http://nbviewer.jupyter.org/github/roamanalytics/roamresearch/blob/master/BlogPosts/Modern_TensorFlow/modern-tensorflow.ipynb)<br/>
@@ -15,4 +15,7 @@
 How to setup&run Marian, NMT<br/>
 How to setup&run Mosess, SMT<br/>
 [How to setup&run Bitexter/Paracrawl](https://github.com/bitextor/bitextor/releases/tag/v6.0.0-rc.1)<br/>
+
+## Chatbot Platform
+(Build A Chatbot with Rasa NLU)[https://blog.spg.ai/build-a-chatbot-with-rasa-nlu-dc2bfb55edb2]
 
