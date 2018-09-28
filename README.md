@@ -19,3 +19,5 @@ How to setup&run Mosess, SMT<br/>
 ## Chatbot Platform
 [Build A Chatbot with Rasa NLU](https://blog.spg.ai/build-a-chatbot-with-rasa-nlu-dc2bfb55edb2)
 
+## Corpus (English-Thai)
+[Open parallel corpus](http://opus.nlpl.eu)
